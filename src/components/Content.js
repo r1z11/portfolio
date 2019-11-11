@@ -10,6 +10,7 @@ class Content extends React.Component {
         };
     }
 
+    // Manage tab displayed
     setKey(key) {
         this.setState({ key: key })
     }
@@ -30,53 +31,53 @@ class Content extends React.Component {
                 </div>
 
                 <div className="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
-                    <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+                    <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 py-3">
                             <h2 className="display-5">Cross Platform App development</h2>
                             <p className="lead">I make mobile apps for both IOS and Android. I build desktop apps for Windows, Linux and Mac</p>
                         </div>
-                        <div className="bg-light shadow-sm mx-auto" style={styles.box}></div>
+                        <img className="img-responsive" src={require('../assets/images/apps.png')} alt="cross-platform-apps-icon" width="300" height="300"/>
                     </div>
-                    <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                    <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 p-3">
                             <h2 className="display-5">Web Applications</h2>
                             <p className="lead">I build web applications.</p>
                         </div>
-                        <div className="bg-dark shadow-sm mx-auto" style={styles.box}></div>
+                        <img className="img-responsive" src={require('../assets/images/web-apps.png')} alt="web-apps-icon" width="300" height="300"/>
                     </div>
                 </div>
 
                 <div className="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
-                    <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                    <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 p-3">
                             <h2 className="display-5">Search Engine Optimisation</h2>
                             <p className="lead">I optimise websites for search engines.</p>
                         </div>
-                        <div className="bg-dark shadow-sm mx-auto" style={styles.box}></div>
+                        <div className="shadow-sm mx-auto" style={styles.box}><img className="img-responsive" src={require('../assets/images/seo.png')} alt="seo-icon" width="300" height="300"/></div>
                     </div>
-                    <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+                    <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 py-3">
                             <h2 className="display-5">Website Design</h2>
                             <p className="lead">I design and develop websites.</p>
                         </div>
-                        <div className="bg-light shadow-sm mx-auto" style={styles.box}></div>
+                        <img className="img-responsive" src={require('../assets/images/websites.png')} alt="website-design-icon" width="300" height="300"/>
                     </div>
                 </div>
 
                 <div className="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
-                    <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+                    <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 p-3">
                             <h2 className="display-5">RESTful APIs</h2>
                             <p className="lead">I build RESTful APIs.</p>
                         </div>
-                        <div className="bg-light shadow-sm mx-auto" style={styles.box}></div>
+                        <img className="img-responsive" src={require('../assets/images/restful-apis.png')} alt="restful-apis-icon" width="300" height="300"/>
                     </div>
-                    <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                    <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 py-3">
                             <h2 className="display-5">Web Hosting</h2>
                             <p className="lead">I provide hosting for websites, web apps, APIs</p>
                         </div>
-                        <div className="bg-dark shadow-sm mx-auto" style={styles.box}></div>
+                        <img className="img-responsive" src={require('../assets/images/web-hosting.png')} alt="web-hosting-icon" width="300" height="300"/>
                     </div>
                 </div>
 
@@ -100,7 +101,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">Gardenia Spa</h2>
                                     <p className="lead">Wordpress company website</p>
                                 </div>
-                                <div className="bg-light shadow-sm mx-auto" style={styles.box}></div>
+                                <img style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa"/>
                             </div>
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 p-3">
@@ -319,15 +320,15 @@ class Content extends React.Component {
                     </Tab>
                 </Tabs>
 
-<div className="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-    <div className="col-md-5 p-lg-5 mx-auto my-5">
-        <h1 className="display-4 font-weight-normal">Love what I do?</h1>
-        <p className="lead font-weight-normal">Let's work on a project together</p>
-        <a className="btn btn-outline-secondary" href="mailto:sentongoeric@gmail.com">Get in touch</a>
-    </div>
-    <div className="product-device shadow-sm d-none d-md-block"></div>
-    <div className="product-device product-device-2 shadow-sm d-none d-md-block"></div>
-</div>
+                <div className="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+                    <div className="col-md-5 p-lg-5 mx-auto my-5">
+                        <h1 className="display-4 font-weight-normal">Love what I do?</h1>
+                        <p className="lead font-weight-normal">Let's work on a project together</p>
+                        <a className="btn btn-outline-secondary" href="mailto:sentongoeric@gmail.com">Get in touch</a>
+                    </div>
+                    <div className="product-device shadow-sm d-none d-md-block"></div>
+                    <div className="product-device product-device-2 shadow-sm d-none d-md-block"></div>
+                </div>
 
             </div>
         );
@@ -342,10 +343,9 @@ const styles = {
         borderTopRightRadius: 21,
         borderBottomLeftRadius: 0,
         borderBottomRightRadius: 0,
-        // backgroundImage: `url(require("../assets/images/gardenia-spa.png"))`,
-        backgroundPosition: 'center',
-        backgroundSize: 'cover',
-        backgroundRepeat: 'no-repeat'
+        // backgroundPosition: 'center',
+        // backgroundSize: 'cover',
+        // backgroundRepeat: 'no-repeat'
     },
 }
 
