@@ -36,14 +36,14 @@ class Content extends React.Component {
                             <h2 className="display-5">Cross Platform App development</h2>
                             <p className="lead">I make mobile apps for both IOS and Android. I build desktop apps for Windows, Linux and Mac</p>
                         </div>
-                        <img className="img-responsive" src={require('../assets/images/apps.png')} alt="cross-platform-apps-icon" width="300" height="300"/>
+                        <img className="img-responsive" src={require('../assets/images/apps.png')} alt="cross-platform-apps-icon" width="300" height="300" />
                     </div>
                     <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 p-3">
                             <h2 className="display-5">Web Applications</h2>
                             <p className="lead">I build web applications.</p>
                         </div>
-                        <img className="img-responsive" src={require('../assets/images/web-apps.png')} alt="web-apps-icon" width="300" height="300"/>
+                        <img className="img-responsive" src={require('../assets/images/web-apps.png')} alt="web-apps-icon" width="300" height="300" />
                     </div>
                 </div>
 
@@ -53,14 +53,14 @@ class Content extends React.Component {
                             <h2 className="display-5">Search Engine Optimisation</h2>
                             <p className="lead">I optimise websites for search engines.</p>
                         </div>
-                        <div className="shadow-sm mx-auto" style={styles.box}><img className="img-responsive" src={require('../assets/images/seo.png')} alt="seo-icon" width="300" height="300"/></div>
+                        <div className="shadow-sm mx-auto" style={styles.box}><img className="img-responsive" src={require('../assets/images/seo.png')} alt="seo-icon" width="300" height="300" /></div>
                     </div>
                     <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 py-3">
                             <h2 className="display-5">Website Design</h2>
                             <p className="lead">I design and develop websites.</p>
                         </div>
-                        <img className="img-responsive" src={require('../assets/images/websites.png')} alt="website-design-icon" width="300" height="300"/>
+                        <img className="img-responsive" src={require('../assets/images/websites.png')} alt="website-design-icon" width="300" height="300" />
                     </div>
                 </div>
 
@@ -70,14 +70,14 @@ class Content extends React.Component {
                             <h2 className="display-5">RESTful APIs</h2>
                             <p className="lead">I build RESTful APIs.</p>
                         </div>
-                        <img className="img-responsive" src={require('../assets/images/restful-apis.png')} alt="restful-apis-icon" width="300" height="300"/>
+                        <img className="img-responsive" src={require('../assets/images/restful-apis.png')} alt="restful-apis-icon" width="300" height="300" />
                     </div>
                     <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                         <div className="my-3 py-3">
                             <h2 className="display-5">Web Hosting</h2>
                             <p className="lead">I provide hosting for websites, web apps, APIs</p>
                         </div>
-                        <img className="img-responsive" src={require('../assets/images/web-hosting.png')} alt="web-hosting-icon" width="300" height="300"/>
+                        <img className="img-responsive" src={require('../assets/images/web-hosting.png')} alt="web-hosting-icon" width="300" height="300" />
                     </div>
                 </div>
 
@@ -101,7 +101,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">Gardenia Spa</h2>
                                     <p className="lead">Wordpress company website</p>
                                 </div>
-                                <img style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa"/>
+                                <img style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa-ltd" />
                             </div>
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 p-3">
@@ -118,7 +118,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">UGAGRI website and ranch management system</h2>
                                     <p className="lead">CodeIgniter website and ranch management web application</p>
                                 </div>
-                                <div className="bg-dark shadow-sm mx-auto" style={styles.box}></div>
+                                <img style={styles.box} src={require('../assets/images/ugagri.png')} alt="ugagri-uganda-ltd" />
                             </div>
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
@@ -135,14 +135,14 @@ class Content extends React.Component {
                                     <h2 className="display-5">Moving Ads Uganda</h2>
                                     <p className="lead">Wordpress company website.</p>
                                 </div>
-                                <div className="bg-light shadow-sm mx-auto" style={styles.box}></div>
+                                <img style={styles.box} src={require('../assets/images/moving-ads-uganda.png')} alt="moving-ads-uganda" />
                             </div>
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Breakthrough Miracle Life Ministries</h2>
                                     <p className="lead">Wordpress church website</p>
                                 </div>
-                                <div className="bg-dark shadow-sm mx-auto" style={styles.box}></div>
+                                <img style={styles.box} src={require('../assets/images/breakthrough-miracle-life.png')} alt="breakthrough-miracle-life-ministries" />
                             </div>
                         </div>
 
@@ -159,7 +159,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">Hair Goals Extensions</h2>
                                     <p className="lead">Wordpress e-commerce website</p>
                                 </div>
-                                <div className="bg-light shadow-sm mx-auto" style={styles.box}></div>
+                                <img style={styles.box} src={require('../assets/images/hair-goals-extensions.png')} alt="hair-goals-extensions" />
                             </div>
                         </div>
 
@@ -169,14 +169,14 @@ class Content extends React.Component {
                                     <h2 className="display-5">Apricot Guest House</h2>
                                     <p className="lead">Wordpress hotel website.</p>
                                 </div>
-                                <div className="bg-light shadow-sm mx-auto" style={styles.box}></div>
+                                <img style={styles.box} src={require('../assets/images/apricot-guest-house.png')} alt="apricot-guest-house" />
                             </div>
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Rotafield Schools</h2>
                                     <p className="lead">Wordpress kindergarten website</p>
                                 </div>
-                                <div className="bg-dark shadow-sm mx-auto" style={styles.box}></div>
+                                <img style={styles.box} src={require('../assets/images/rotafield-schools.png')} alt="rotafield-schools" />
                             </div>
                         </div>
 
@@ -193,7 +193,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">Rotary eClub of Uganda Global</h2>
                                     <p className="lead">Wordpress online rotary club website</p>
                                 </div>
-                                <div className="bg-light shadow-sm mx-auto" style={styles.box}></div>
+                                <img style={styles.box} src={require('../assets/images/rotaryeclubug.png')} alt="rotaryeclubug" />
                             </div>
                         </div>
                     </Tab>
@@ -337,12 +337,9 @@ class Content extends React.Component {
 
 const styles = {
     box: {
-        flex: .8,
-        height: 300,
+        width: 550,
         borderTopLeftRadius: 21,
         borderTopRightRadius: 21,
-        borderBottomLeftRadius: 0,
-        borderBottomRightRadius: 0,
         // backgroundPosition: 'center',
         // backgroundSize: 'cover',
         // backgroundRepeat: 'no-repeat'
