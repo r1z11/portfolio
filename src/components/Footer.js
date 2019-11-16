@@ -31,10 +31,10 @@ export default class Footer extends React.Component {
                             </ul>
                         </div> */}
                         <div className="col-6 col-md">
-                            <h5>My Resume</h5>
+                            {/* <h5>My Resume</h5>
                             <ul className="list-unstyled text-small">
                                 <li><a className="text-muted" href="../assets/docs/eric.resume.pdf">Download Resume</a></li>
-                            </ul>
+                            </ul> */}
                         </div>
                         <div className="col-6 col-md">
                             <h5>Open source projects</h5>
@@ -44,7 +44,7 @@ export default class Footer extends React.Component {
                             </ul>
                         </div>
                         <div className="col-6 col-md">
-                            <h5>Other Profiles</h5>
+                            <h5>Profiles</h5>
                             <ul className="list-unstyled text-small">
                                 <li><a className="text-muted" href="https://github.com/r1z11">GitHub</a></li>
                                 <li><a className="text-muted" href="https://www.linkedin.com/in/eric-sentongo-5b17063a/">LinkedIn</a></li>
