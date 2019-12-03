@@ -108,7 +108,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">RoundBob travel wallet</h2>
                                     <p className="lead">React native mobile application.</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/rotafield-schools.png')} alt="rotafield-schools" />
+                                {/* <img className="shadow-lg" style={styles.box} src={require('../assets/images/rotafield-schools.png')} alt="rotafield-schools" /> */}
                             </div>
                         </div>
 
