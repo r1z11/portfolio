@@ -101,7 +101,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">Gardenia Spa</h2>
                                     <p className="lead">Wordpress company website</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa-ltd" />
+                                <a href="http://gardeniaspaltd.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa-ltd" /></a>
                             </div>
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 p-3">
@@ -118,7 +118,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">UGAGRI website and ranch management system</h2>
                                     <p className="lead">CodeIgniter website and ranch management web application</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/ugagri.png')} alt="ugagri-uganda-ltd" />
+                                <a href="http://ugagri.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ugagri.png')} alt="ugagri-uganda-ltd" /></a>
                             </div>
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
@@ -135,14 +135,14 @@ class Content extends React.Component {
                                     <h2 className="display-5">Moving Ads Uganda</h2>
                                     <p className="lead">Wordpress company website.</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/moving-ads-uganda.png')} alt="moving-ads-uganda" />
+                                <a href="http://movingads.co.ug/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/moving-ads-uganda.png')} alt="moving-ads-uganda" /></a>
                             </div>
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Breakthrough Miracle Life Ministries</h2>
                                     <p className="lead">Wordpress church website</p>
                                 </div>
-                                <img className="shadow" style={styles.box} src={require('../assets/images/breakthrough-miracle-life.png')} alt="breakthrough-miracle-life-ministries" />
+                                <a href="https://breakthroughmiraclelife.org/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/breakthrough-miracle-life.png')} alt="breakthrough-miracle-life-ministries" /></a>
                             </div>
                         </div>
 
@@ -159,7 +159,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">Hair Goals Extensions</h2>
                                     <p className="lead">Wordpress e-commerce website</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/hair-goals-extensions.png')} alt="hair-goals-extensions" />
+                                <a href="https://hairgoalsextensions.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/hair-goals-extensions.png')} alt="hair-goals-extensions" /></a>
                             </div>
                         </div>
 
@@ -169,14 +169,14 @@ class Content extends React.Component {
                                     <h2 className="display-5">Apricot Guest House</h2>
                                     <p className="lead">Wordpress hotel website.</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/apricot-guest-house.png')} alt="apricot-guest-house" />
+                                <a href="http://apricotguesthouse.org/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/apricot-guest-house.png')} alt="apricot-guest-house" /></a>
                             </div>
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Rotafield Schools</h2>
                                     <p className="lead">Wordpress kindergarten website</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/rotafield-schools.png')} alt="rotafield-schools" />
+                                <a href="http://rotafieldschools.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/rotafield-schools.png')} alt="rotafield-schools" /></a>
                             </div>
                         </div>
 
@@ -193,7 +193,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">Rotary eClub of Uganda Global</h2>
                                     <p className="lead">Wordpress online rotary club website</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/rotaryeclubug.png')} alt="rotaryeclubug" />
+                                <a href="https://rotaryeclubug.org/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/rotaryeclubug.png')} alt="rotaryeclubug" /></a>
                             </div>
                         </div>
                     </Tab>
@@ -207,7 +207,7 @@ class Content extends React.Component {
                                     <h2 className="display-5">Gardenia Spa</h2>
                                     <p className="lead">Wordpress company website</p>
                                 </div>
-                                <img className="shadow-lg" style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa-ltd" />
+                                <a href="http://gardeniaspaltd.com/" target="_blank" rel="noopener noreferrer"><img style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa-ltd" /></a>
                             </div>
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
