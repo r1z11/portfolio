@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6fe4d705.chunk.css",
+    "main.js": "/portfolio/static/js/main.3ec87e9b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3ec87e9b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0d1e8c07.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0d1e8c07.js.map",
+    "static/js/2.12c9f761.chunk.js": "/portfolio/static/js/2.12c9f761.chunk.js",
+    "static/js/2.12c9f761.chunk.js.map": "/portfolio/static/js/2.12c9f761.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.2769e05d896fd940a680bc53b837561e.js": "/portfolio/precache-manifest.2769e05d896fd940a680bc53b837561e.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.6fe4d705.chunk.css.map": "/portfolio/static/css/main.6fe4d705.chunk.css.map",
+    "static/media/apps.png": "/portfolio/static/media/apps.63925287.png",
+    "static/media/apricot-guest-house.png": "/portfolio/static/media/apricot-guest-house.68dd64ff.png",
+    "static/media/breakthrough-miracle-life.png": "/portfolio/static/media/breakthrough-miracle-life.36efa426.png",
+    "static/media/gardenia-spa.png": "/portfolio/static/media/gardenia-spa.c6d9fb76.png",
+    "static/media/hair-goals-extensions.png": "/portfolio/static/media/hair-goals-extensions.c0ce27fe.png",
+    "static/media/moving-ads-uganda.png": "/portfolio/static/media/moving-ads-uganda.897ac372.png",
+    "static/media/restful-apis.png": "/portfolio/static/media/restful-apis.4dbd4e41.png",
+    "static/media/rotafield-schools.png": "/portfolio/static/media/rotafield-schools.e17064d1.png",
+    "static/media/rotaryeclubug.png": "/portfolio/static/media/rotaryeclubug.1760252c.png",
+    "static/media/seo.png": "/portfolio/static/media/seo.a126b036.png",
+    "static/media/ug-mix-maestro-2.png": "/portfolio/static/media/ug-mix-maestro-2.00319d70.png",
+    "static/media/ugagri.png": "/portfolio/static/media/ugagri.d71389c9.png",
+    "static/media/web-apps.png": "/portfolio/static/media/web-apps.f9636c45.png",
+    "static/media/web-hosting.png": "/portfolio/static/media/web-hosting.b63b7b45.png",
+    "static/media/websites.png": "/portfolio/static/media/websites.859ad313.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d1e8c07.js",
+    "static/js/2.12c9f761.chunk.js",
+    "static/css/main.6fe4d705.chunk.css",
+    "static/js/main.3ec87e9b.chunk.js"
+  ]
+}
