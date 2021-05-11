@@ -1,8 +1,10 @@
 {
   "name": "buzinga",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://r1z11.github.io/portfolio/",
   "dependencies": {
+    "@babel/helper-builder-react-jsx": "^7.12.13",
     "bootstrap": "^4.3.1",
     "jquery": "^3.5.0",
     "minimist": "^1.2.5",
@@ -14,6 +16,8 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
