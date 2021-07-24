@@ -31,23 +31,24 @@ export default class Footer extends React.Component {
                             </ul>
                         </div> */}
                         <div className="col-6 col-md">
-                            {/* <h5>My Resume</h5>
-                            <ul className="list-unstyled text-small">
-                                <li><a className="text-muted" href="../assets/docs/eric.resume.pdf">Download Resume</a></li>
-                            </ul> */}
-                        </div>
-                        <div className="col-6 col-md">
-                            <h5>Open source projects</h5>
+                            {/* <h5>Open source projects</h5>
                             <ul className="list-unstyled text-small">
                                 <li><a className="text-muted" href="https://github.com/r1z11/buzpos">Buz Point of Sale</a></li>
                                 <li><a className="text-muted" href="https://github.com/r1z11/billboard">Billboard Law Practice Management Software</a></li>
+                            </ul> */}
+                        </div>
+                        <div className="col-6 col-md">
+                            <h5>My Resume</h5>
+                            <ul className="list-unstyled text-small">
+                                <li><a className="text-muted" target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1P8ECv9rnIElN1CEjDumhMgDPOwkMVI9zeK5chR7rXn8/edit?usp=sharing">View Resume</a></li>
                             </ul>
                         </div>
                         <div className="col-6 col-md">
                             <h5>Profiles</h5>
                             <ul className="list-unstyled text-small">
-                                <li><a className="text-muted" href="https://github.com/r1z11">GitHub</a></li>
-                                <li><a className="text-muted" href="https://www.linkedin.com/in/eric-sentongo-5b17063a/">LinkedIn</a></li>
+                                <li><a className="text-muted" href="https://github.com/r1z11" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+                                <li><a className="text-muted" href="https://www.linkedin.com/in/eric-sentongo/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                                <li><a className="text-muted" href="https://www.linkedin.com/in/eric-sentongo/" target="_blank" rel="noopener noreferrer">Pluralsight</a></li>
                             </ul>
                         </div>
                     </div>
