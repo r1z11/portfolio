@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f7b07d81d5c673cf773f9fd36304707",
+    "revision": "a16b7344fb0fa4dfbbbf820449dca035",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "e7cac388eb4f6a2b5167",
-    "url": "/portfolio/static/css/main.6fe4d705.chunk.css"
+    "revision": "34657187982df5ed09bf",
+    "url": "/portfolio/static/css/main.0684d642.chunk.css"
   },
   {
-    "revision": "8fa518b2dae5a1be457d",
-    "url": "/portfolio/static/js/2.12c9f761.chunk.js"
+    "revision": "f84b220491dd67f0e2e0",
+    "url": "/portfolio/static/js/2.63b0bd7d.chunk.js"
   },
   {
-    "revision": "e7cac388eb4f6a2b5167",
-    "url": "/portfolio/static/js/main.3ec87e9b.chunk.js"
+    "revision": "34657187982df5ed09bf",
+    "url": "/portfolio/static/js/main.e0499963.chunk.js"
   },
   {
-    "revision": "5e7224d1e371a77c2384",
-    "url": "/portfolio/static/js/runtime-main.0d1e8c07.js"
+    "revision": "93b860d4e6f306b8746b",
+    "url": "/portfolio/static/js/runtime-main.1f629525.js"
   },
   {
     "revision": "639252876d3630bca93cdc061de464e8",
@@ -28,32 +28,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/apricot-guest-house.68dd64ff.png"
   },
   {
+    "revision": "ec3ba3c892b9d7546e3f7591581c8812",
+    "url": "/portfolio/static/media/athena.ec3ba3c8.png"
+  },
+  {
     "revision": "36efa426a225f27b1e22f329ad7e9b3a",
     "url": "/portfolio/static/media/breakthrough-miracle-life.36efa426.png"
+  },
+  {
+    "revision": "1ed8d8aa8f26925ebd2478e2169b7d82",
+    "url": "/portfolio/static/media/erotary.1ed8d8aa.png"
+  },
+  {
+    "revision": "481b761bba537c298bae4afbc29cec50",
+    "url": "/portfolio/static/media/fiid-full-2.481b761b.png"
   },
   {
     "revision": "c6d9fb761b8739f4d53b88ccb3771dc4",
     "url": "/portfolio/static/media/gardenia-spa.c6d9fb76.png"
   },
   {
-    "revision": "c0ce27fe3f7f658512bc8561720afa22",
-    "url": "/portfolio/static/media/hair-goals-extensions.c0ce27fe.png"
-  },
-  {
-    "revision": "897ac372a9c5a5b95000cd5683d8681f",
-    "url": "/portfolio/static/media/moving-ads-uganda.897ac372.png"
+    "revision": "58c5698df43cc2df3182b422fad5634e",
+    "url": "/portfolio/static/media/hmkf.58c5698d.png"
   },
   {
     "revision": "4dbd4e41f89dc93e418e87d4042b2da3",
     "url": "/portfolio/static/media/restful-apis.4dbd4e41.png"
   },
   {
-    "revision": "e17064d12e228c5b0254f15cba140a13",
-    "url": "/portfolio/static/media/rotafield-schools.e17064d1.png"
+    "revision": "17f87340d66d4c636a5f9acba96f72d9",
+    "url": "/portfolio/static/media/ropani.17f87340.png"
   },
   {
-    "revision": "1760252cc3384dbc4c286c5688f899ad",
-    "url": "/portfolio/static/media/rotaryeclubug.1760252c.png"
+    "revision": "e17064d12e228c5b0254f15cba140a13",
+    "url": "/portfolio/static/media/rotafield-schools.e17064d1.png"
   },
   {
     "revision": "a126b0361cdcf3d95a903da5ad56bcba",
