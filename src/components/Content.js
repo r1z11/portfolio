@@ -103,6 +103,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="http://gardeniaspaltd.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa-ltd" /></a>
                             </div>
+
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Hakuna Matata Keep Fit</h2>
@@ -120,12 +121,13 @@ class Content extends React.Component {
                                 </div>
                                 <a href="http://ugagri.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ugagri.png')} alt="ugagri-uganda-ltd" /></a>
                             </div>
+
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 p-3">
                                     <h2 className="display-5">UG Mix Maestro app</h2>
                                     <p className="lead">Android mobile game.</p>
                                 </div>
-                                <img className="img-fluid" style={styles.boxApp} src={require('../assets/images/ug-mix-maestro-2.png')} alt="ug-mix-maestro" />
+                                <img className="img-fluid" style={styles.box} src={require('../assets/images/ug-mix-maestro-2.png')} alt="ug-mix-maestro" />
                             </div>
                         </div>
 
@@ -137,6 +139,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="https://www.theathenahotelug.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/athena.png')} alt="the-athena-hotel" /></a>
                             </div>
+
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Breakthrough Miracle Life Ministries</h2>
@@ -154,6 +157,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="https://expo.dev/@es16297/fiid" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/fiid-full-2.png')} alt="fiid" /></a>
                             </div>
+
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Ropani Hotel</h2>
@@ -171,6 +175,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="http://apricotguesthouse.org/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/apricot-guest-house.png')} alt="apricot-guest-house" /></a>
                             </div>
+
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Rotafield Schools</h2>
@@ -186,8 +191,9 @@ class Content extends React.Component {
                                     <h2 className="display-5">Bell Lager Shake n Win</h2>
                                     <p className="lead">Android mobile game.</p>
                                 </div>
+
                                 <div className="shadow-lg" style={styles.box}>
-                                    <iframe width="auto" height="260" src="https://www.youtube.com/embed/nQtcRtyUGU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="720" height="480" src="https://www.youtube.com/embed/nQtcRtyUGU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
@@ -211,6 +217,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="http://gardeniaspaltd.com/" target="_blank" rel="noopener noreferrer"><img style={styles.box} src={require('../assets/images/gardenia-spa.png')} alt="gardenia-spa-ltd" /></a>
                             </div>
+
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Rotary eClub of Uganda Global</h2>
@@ -228,6 +235,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="http://rotafieldschools.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/rotafield-schools.png')} alt="rotafield-schools" /></a>
                             </div>
+
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 p-3">
                                     <h2 className="display-5">Apricot Guest House</h2>
@@ -245,6 +253,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="https://hotelropani.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ropani.png')} alt="ropani-hotel" /></a>
                             </div>
+
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Breakthrough Miracle Life Ministries</h2>
@@ -262,6 +271,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="https://www.theathenahotelug.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/athena.png')} alt="the-athena-hotel" /></a>
                             </div>
+
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 p-3">
                                     <h2 className="display-5">UGAGRI website and ranch management system</h2>
@@ -279,6 +289,7 @@ class Content extends React.Component {
                                 </div>
                                 <a href="https://hakunamatatakeepfit.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/hmkf.png')} alt="hakuna-matata-keep-fit" /></a>
                             </div>
+
                             {/* <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
         <div className="my-3 p-3">
             <h2 className="display-5">UGAGRI website and ranch management system</h2>
@@ -299,9 +310,10 @@ class Content extends React.Component {
                                     <p className="lead">Android mobile game.</p>
                                 </div>
                                 <div className="shadow-lg" style={styles.box}>
-                                    <iframe width="auto" height="260" src="https://www.youtube.com/embed/nQtcRtyUGU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="720" height="480" src="https://www.youtube.com/embed/nQtcRtyUGU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
+
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">fiid</h2>
@@ -319,6 +331,7 @@ class Content extends React.Component {
                                 </div>
                                 <img className="img-fluid" src={require('../assets/images/ug-mix-maestro-2.png')} alt="ug-mix-maestro" />
                             </div>
+
                             {/* <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
                                     <h2 className="display-5">Hakuna Matata Keep Fit</h2>
@@ -358,9 +371,9 @@ class Content extends React.Component {
 
 const styles = {
     box: {
-        width: 550,
+        width: '100%',
         borderTopLeftRadius: 21,
-        borderTopRightRadius: 21
+        borderTopRightRadius: 21,
     },
     boxApp: {
         marginTop: 38
