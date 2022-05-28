@@ -106,10 +106,10 @@ class Content extends React.Component {
 
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
-                                    <h2 className="display-5">Hakuna Matata Keep Fit</h2>
-                                    <p className="lead">Wordpress fitness website.</p>
+                                    <h2 className="display-5">Ropani Tours</h2>
+                                    <p className="lead">Wordpress tours and travel website.</p>
                                 </div>
-                                <a href="https://hakunamatatakeepfit.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/hmkf.png')} alt="hakuna-matata-keep-fit" /></a>
+                                <a href="https://ropanitours.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ropanitours.png')} alt="hakuna-matata-keep-fit" /></a>
                             </div>
                         </div>
 
@@ -160,10 +160,10 @@ class Content extends React.Component {
 
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
-                                    <h2 className="display-5">Ropani Hotel</h2>
-                                    <p className="lead">Wordpress hotel website</p>
+                                    <h2 className="display-5">Tek Qubes</h2>
+                                    <p className="lead">Wordpress online learning platform</p>
                                 </div>
-                                <a href="https://hotelropani.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ropani.png')} alt="ropani-hotel" /></a>
+                                <a href="https://tekqubes.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/tequbes.png')} alt="ropani-hotel" /></a>
                             </div>
                         </div>
 
@@ -202,6 +202,16 @@ class Content extends React.Component {
                                     <p className="lead">Custom wordpress online rotary club theme</p>
                                 </div>
                                 <a href="https://demo.rotaryeclubug.org/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/erotary.png')} alt="rotary-eclub-of-uganda-global" /></a>
+                            </div>
+                        </div>
+
+                        <div className="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+                            <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                                <div className="my-3 p-3">
+                                    <h2 className="display-5">Uganda Bankers' SACCO</h2>
+                                    <p className="lead">Wordpress savings and and credit cooperative organisation website</p>
+                                </div>
+                                <a href="https://ugandabankersacco.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ubsacco.png')} alt="ugagri-uganda-ltd" /></a>
                             </div>
                         </div>
                     </Tab>
@@ -248,10 +258,10 @@ class Content extends React.Component {
                         <div className="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
-                                    <h2 className="display-5">Ropani Hotel</h2>
-                                    <p className="lead">Wordpress hotel website</p>
+                                    <h2 className="display-5">Tek Qubes</h2>
+                                    <p className="lead">Wordpress online learning platform</p>
                                 </div>
-                                <a href="https://hotelropani.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ropani.png')} alt="ropani-hotel" /></a>
+                                <a href="https://tekqubes.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/tequbes.png')} alt="ropani-hotel" /></a>
                             </div>
 
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
@@ -284,19 +294,19 @@ class Content extends React.Component {
                         <div className="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
                             <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
                                 <div className="my-3 py-3">
-                                    <h2 className="display-5">Hakuna Matata Keep Fit</h2>
-                                    <p className="lead">Wordpress fitness website.</p>
+                                    <h2 className="display-5">Ropani Tours</h2>
+                                    <p className="lead">Wordpress tours and website.</p>
                                 </div>
-                                <a href="https://hakunamatatakeepfit.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/hmkf.png')} alt="hakuna-matata-keep-fit" /></a>
+                                <a href="https://ropanitours.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ropanitours.png')} alt="hakuna-matata-keep-fit" /></a>
                             </div>
 
-                            {/* <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-        <div className="my-3 p-3">
-            <h2 className="display-5">UGAGRI website and ranch management system</h2>
-            <p className="lead">CodeIgniter ranch website</p>
-        </div>
-        <a href="https://movingads.co.ug/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ugagri.png')} alt="ugagri-uganda-ltd" /></a>
-    </div> */}
+                            <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                                <div className="my-3 p-3">
+                                    <h2 className="display-5">Uganda Bankers' SACCO</h2>
+                                    <p className="lead">Wordpress savings and and credit cooperative organisation website</p>
+                                </div>
+                                <a href="https://ugandabankersacco.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ubsacco.png')} alt="ugagri-uganda-ltd" /></a>
+                            </div>
                         </div>
                     </Tab>
 
@@ -331,14 +341,6 @@ class Content extends React.Component {
                                 </div>
                                 <img className="img-fluid" src={require('../assets/images/ug-mix-maestro-2.png')} alt="ug-mix-maestro" />
                             </div>
-
-                            {/* <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
-                                <div className="my-3 py-3">
-                                    <h2 className="display-5">Hakuna Matata Keep Fit</h2>
-                                    <p className="lead">Wordpress fitness website.</p>
-                                </div>
-                                <a href="https://hakunamatatakeepfit.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/hmkf.png')} alt="hakuna-matata-keep-fit" /></a>
-                            </div> */}
                         </div>
                     </Tab>
 
@@ -360,8 +362,6 @@ class Content extends React.Component {
                         <p className="lead font-weight-normal">Let's work on a project together</p>
                         <a className="btn btn-outline-secondary" href="mailto:sentongoeric@gmail.com">Get in touch</a>
                     </div>
-                    {/* <div className="product-device shadow-sm d-none d-md-block"></div>
-                    <div className="product-device product-device-2 shadow-sm d-none d-md-block"></div> */}
                 </div>
 
             </div>
