@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fa13d2fff90f0b5c0d7f5acf68a94e5",
+    "revision": "36b11a41fe496ab632aec3f19f1da6c4",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "0aaf88d58ed389aaa508",
-    "url": "/portfolio/static/css/main.0bbcda57.chunk.css"
+    "revision": "d1e1dec4e5e906979526",
+    "url": "/portfolio/static/css/main.0684d642.chunk.css"
   },
   {
-    "revision": "f84b220491dd67f0e2e0",
-    "url": "/portfolio/static/js/2.63b0bd7d.chunk.js"
+    "revision": "677c12671d157b5a144c",
+    "url": "/portfolio/static/js/2.3a114063.chunk.js"
   },
   {
-    "revision": "0aaf88d58ed389aaa508",
-    "url": "/portfolio/static/js/main.e0499963.chunk.js"
+    "revision": "d1e1dec4e5e906979526",
+    "url": "/portfolio/static/js/main.4e5c4c25.chunk.js"
   },
   {
     "revision": "93b860d4e6f306b8746b",
@@ -48,16 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/gardenia-spa.c6d9fb76.png"
   },
   {
-    "revision": "58c5698df43cc2df3182b422fad5634e",
-    "url": "/portfolio/static/media/hmkf.58c5698d.png"
-  },
-  {
     "revision": "4dbd4e41f89dc93e418e87d4042b2da3",
     "url": "/portfolio/static/media/restful-apis.4dbd4e41.png"
   },
   {
-    "revision": "17f87340d66d4c636a5f9acba96f72d9",
-    "url": "/portfolio/static/media/ropani.17f87340.png"
+    "revision": "4a8b0bfcc70ebecadd4359c40b3dad66",
+    "url": "/portfolio/static/media/ropanitours.4a8b0bfc.png"
   },
   {
     "revision": "e17064d12e228c5b0254f15cba140a13",
@@ -66,6 +62,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a126b0361cdcf3d95a903da5ad56bcba",
     "url": "/portfolio/static/media/seo.a126b036.png"
+  },
+  {
+    "revision": "1eddfc27558d84a01fe2e93a378c7709",
+    "url": "/portfolio/static/media/tequbes.1eddfc27.png"
+  },
+  {
+    "revision": "44fbd7eb0da95fa8624753e92fdc7452",
+    "url": "/portfolio/static/media/ubsacco.44fbd7eb.png"
   },
   {
     "revision": "00319d708091e591b66c28f3b99627de",

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0bbcda57.chunk.css",
-    "main.js": "/portfolio/static/js/main.e0499963.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e0499963.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.0684d642.chunk.css",
+    "main.js": "/portfolio/static/js/main.4e5c4c25.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4e5c4c25.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.1f629525.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.1f629525.js.map",
-    "static/js/2.63b0bd7d.chunk.js": "/portfolio/static/js/2.63b0bd7d.chunk.js",
-    "static/js/2.63b0bd7d.chunk.js.map": "/portfolio/static/js/2.63b0bd7d.chunk.js.map",
+    "static/js/2.3a114063.chunk.js": "/portfolio/static/js/2.3a114063.chunk.js",
+    "static/js/2.3a114063.chunk.js.map": "/portfolio/static/js/2.3a114063.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.123334cc14b3226252f701dbffc3a045.js": "/portfolio/precache-manifest.123334cc14b3226252f701dbffc3a045.js",
+    "precache-manifest.030828957e2ef23f4404d99f1e7199d9.js": "/portfolio/precache-manifest.030828957e2ef23f4404d99f1e7199d9.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.0bbcda57.chunk.css.map": "/portfolio/static/css/main.0bbcda57.chunk.css.map",
+    "static/css/main.0684d642.chunk.css.map": "/portfolio/static/css/main.0684d642.chunk.css.map",
     "static/media/apps.png": "/portfolio/static/media/apps.63925287.png",
     "static/media/apricot-guest-house.png": "/portfolio/static/media/apricot-guest-house.68dd64ff.png",
     "static/media/athena.png": "/portfolio/static/media/athena.ec3ba3c8.png",
@@ -18,11 +18,12 @@
     "static/media/erotary.png": "/portfolio/static/media/erotary.1ed8d8aa.png",
     "static/media/fiid-full-2.png": "/portfolio/static/media/fiid-full-2.481b761b.png",
     "static/media/gardenia-spa.png": "/portfolio/static/media/gardenia-spa.c6d9fb76.png",
-    "static/media/hmkf.png": "/portfolio/static/media/hmkf.58c5698d.png",
     "static/media/restful-apis.png": "/portfolio/static/media/restful-apis.4dbd4e41.png",
-    "static/media/ropani.png": "/portfolio/static/media/ropani.17f87340.png",
+    "static/media/ropanitours.png": "/portfolio/static/media/ropanitours.4a8b0bfc.png",
     "static/media/rotafield-schools.png": "/portfolio/static/media/rotafield-schools.e17064d1.png",
     "static/media/seo.png": "/portfolio/static/media/seo.a126b036.png",
+    "static/media/tequbes.png": "/portfolio/static/media/tequbes.1eddfc27.png",
+    "static/media/ubsacco.png": "/portfolio/static/media/ubsacco.44fbd7eb.png",
     "static/media/ug-mix-maestro-2.png": "/portfolio/static/media/ug-mix-maestro-2.00319d70.png",
     "static/media/ugagri.png": "/portfolio/static/media/ugagri.d71389c9.png",
     "static/media/web-apps.png": "/portfolio/static/media/web-apps.f9636c45.png",
@@ -31,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f629525.js",
-    "static/js/2.63b0bd7d.chunk.js",
-    "static/css/main.0bbcda57.chunk.css",
-    "static/js/main.e0499963.chunk.js"
+    "static/js/2.3a114063.chunk.js",
+    "static/css/main.0684d642.chunk.css",
+    "static/js/main.4e5c4c25.chunk.js"
   ]
 }
