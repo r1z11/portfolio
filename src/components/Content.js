@@ -213,6 +213,14 @@ class Content extends React.Component {
                                 </div>
                                 <a href="https://ugandabankersacco.com/" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/ubsacco.png')} alt="ugagri-uganda-ltd" /></a>
                             </div>
+
+                            <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+                                <div className="my-3 p-3">
+                                    <h2 className="display-5">OCTA Investment Club</h2>
+                                    <p className="lead">React native mobile app</p>
+                                </div>
+                                <a href="https://expo.dev/@es16297/octa-investment-club" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/octa-new.png')} alt="octa" /></a>
+                            </div>
                         </div>
                     </Tab>
 
@@ -336,10 +344,18 @@ class Content extends React.Component {
                         <div className="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
                             <div className="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
                                 <div className="my-3 py-3">
-                                    <h2 className="display-5">UG Mix Maestro app</h2>
+                                    <h2 className="display-5">UG Mix Maestro</h2>
                                     <p className="lead">Android mobile game.</p>
                                 </div>
                                 <img className="img-fluid" src={require('../assets/images/ug-mix-maestro-2.png')} alt="ug-mix-maestro" />
+                            </div>
+
+                            <div className="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+                                <div className="my-3 p-3">
+                                    <h2 className="display-5">OCTA Investment Club</h2>
+                                    <p className="lead">React native mobile app</p>
+                                </div>
+                                <a href="https://expo.dev/@es16297/octa-investment-club" target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={require('../assets/images/octa-new.png')} alt="octa" /></a>
                             </div>
                         </div>
                     </Tab>
