@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36b11a41fe496ab632aec3f19f1da6c4",
+    "revision": "5f1d2af329d73f03db6a9e1b88906253",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d1e1dec4e5e906979526",
+    "revision": "4eced1045c933783b289",
     "url": "/portfolio/static/css/main.0684d642.chunk.css"
   },
   {
-    "revision": "677c12671d157b5a144c",
-    "url": "/portfolio/static/js/2.3a114063.chunk.js"
+    "revision": "78e57ba6deec66fd2170",
+    "url": "/portfolio/static/js/2.580abf96.chunk.js"
   },
   {
-    "revision": "d1e1dec4e5e906979526",
-    "url": "/portfolio/static/js/main.4e5c4c25.chunk.js"
+    "revision": "4eced1045c933783b289",
+    "url": "/portfolio/static/js/main.5e9fe306.chunk.js"
   },
   {
     "revision": "93b860d4e6f306b8746b",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c6d9fb761b8739f4d53b88ccb3771dc4",
     "url": "/portfolio/static/media/gardenia-spa.c6d9fb76.png"
+  },
+  {
+    "revision": "52733ec02041ea7d76a63de32f37e0f7",
+    "url": "/portfolio/static/media/octa-new.52733ec0.png"
   },
   {
     "revision": "4dbd4e41f89dc93e418e87d4042b2da3",
