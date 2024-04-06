@@ -1,60 +1,42 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
-export default class Footer extends React.Component {
-    constructor() {
-        super();
-        this.state = {
-            year: new Date().getFullYear(),
-        };
-    }
+const Footer = () => {
 
-    render() {
-        return (
-            <div>
+    const [year, setYear] = useState('');
 
-                <footer className="container py-5">
-                    <div className="row">
-                        <div className="col-12 col-md">
-                            {/* <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="d-block mb-2" role="img" viewBox="0 0 24 24" focusable="false"><title>Eric Sentongo</title><circle cx="12" cy="12" r="10" /><path d="M14.31 8l5.74 9.94M9.69 8h11.48M7.38 12l5.74-9.94M9.69 16L3.95 6.06M14.31 16H2.83m13.79-4l-5.74 9.94" /></svg> */}
-                            <h4>Eric Sentongo</h4>
-                            <small className="d-block mb-3 text-muted">&copy; 2011 - {this.state.year}</small>
-                        </div>
-                        {/* <div className="col-6 col-md">
-                            <h5>Features</h5>
-                            <ul className="list-unstyled text-small">
-                                <li><a className="text-muted" href="#">Cool stuff</a></li>
-                                <li><a className="text-muted" href="#">Random feature</a></li>
-                                <li><a className="text-muted" href="#">Team feature</a></li>
-                                <li><a className="text-muted" href="#">Stuff for developers</a></li>
-                                <li><a className="text-muted" href="#">Another one</a></li>
-                                <li><a className="text-muted" href="#">Last time</a></li>
-                            </ul>
-                        </div> */}
-                        <div className="col-6 col-md">
-                            {/* <h5>Open source projects</h5>
-                            <ul className="list-unstyled text-small">
-                                <li><a className="text-muted" href="https://github.com/r1z11/buzpos">Buz Point of Sale</a></li>
-                                <li><a className="text-muted" href="https://github.com/r1z11/billboard">Billboard Law Practice Management Software</a></li>
-                            </ul> */}
-                        </div>
-                        <div className="col-6 col-md">
-                            <h5>My Resume</h5>
-                            <ul className="list-unstyled text-small">
-                                <li><a className="text-muted" target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1P8ECv9rnIElN1CEjDumhMgDPOwkMVI9zeK5chR7rXn8/edit?usp=sharing">View Resume</a></li>
-                            </ul>
-                        </div>
-                        <div className="col-6 col-md">
-                            <h5>Profiles</h5>
-                            <ul className="list-unstyled text-small">
-                                <li><a className="text-muted" href="https://github.com/r1z11" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-                                <li><a className="text-muted" href="https://www.linkedin.com/in/eric-sentongo/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-                                <li><a className="text-muted" href="https://www.linkedin.com/in/eric-sentongo/" target="_blank" rel="noopener noreferrer">Pluralsight</a></li>
-                            </ul>
-                        </div>
+    useEffect(() => {
+        setYear(new Date().getFullYear());
+    }, []);
+
+    return (
+        <div>
+            <footer className="container py-5">
+                <div className="row">
+                    <div className="col-12 col-md">
+                        <h4>Eric Sentongo</h4>
+                        <small className="d-block mb-3 text-muted">2011 - {year}</small>
                     </div>
-                </footer>
+                    <div className="col-6 col-md">
+                    </div>
+                    <div className="col-6 col-md">
+                        <h5>My Resume</h5>
+                        <ul className="list-unstyled text-small">
+                            <li><a className="text-muted" target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1HxiA-ki1LmsY6ee67mOWrpus28D7mlEZuTBn9Kdjz0A/edit?usp=sharing">View Resume</a></li>
+                        </ul>
+                    </div>
+                    <div className="col-6 col-md">
+                        <h5>Profiles</h5>
+                        <ul className="list-unstyled text-small">
+                            <li><a className="text-muted" href="https://github.com/r1z11" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+                            <li><a className="text-muted" href="https://www.linkedin.com/in/eric-sentongo/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                            <li><a className="text-muted" href="https://www.linkedin.com/in/eric-sentongo/" target="_blank" rel="noopener noreferrer">Pluralsight</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
 
-            </div>
-        )
-    }
+        </div>
+    )
 }
+
+export default Footer;
