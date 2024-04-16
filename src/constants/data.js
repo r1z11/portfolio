@@ -43,6 +43,14 @@ export const services = [
 // Projects done
 export const projects = [
     {
+        name: 'ioTec Pay',
+        description: 'WooCommerce Payment Gateway Extension for Airtel and MTN Mobile Money',
+        link: 'https://wordpress.com/plugins/iotecpay',
+        image: require('../assets/images/iotec.jpg'),
+        alt: 'iotec-pay',
+        category: 'wp-plugin'
+    },
+    {
         name: 'Gardenia Spa',
         description: 'Wordpress Spa Website',
         link: 'https://gardeniaspaltd.com/',

@@ -131,6 +131,29 @@ const Content = () => {
                         }
                     </div>
                 </Tab>
+
+                {/* WordPress Plugins */}
+                <Tab eventKey="wp-plugins" title="WordPress Plugins">
+
+                    <div className="row">
+                        {
+                            projects.map((item, index) => (
+                                <>
+                                    {item.category === 'wp-plugin' ?
+                                        <div key={index} className="col-md-6 my-3 pl-3">
+                                            <div className={(sequence.indexOf(index) !== -1) ? "bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden" : "bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden"}>
+                                                <div className="my-3 py-3">
+                                                    <h2 className="display-5">{item.name}</h2>
+                                                    <p className="lead">{item.description}</p>
+                                                </div>
+                                                <a href={item.link} target="_blank" rel="noopener noreferrer"><img className="shadow-lg" style={styles.box} src={item.image} alt={item.alt} /></a>
+                                            </div>
+                                        </div> : null}
+                                </>
+                            ))
+                        }
+                    </div>
+                </Tab>
             </Tabs>
 
             <div className="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center gradient-background">
