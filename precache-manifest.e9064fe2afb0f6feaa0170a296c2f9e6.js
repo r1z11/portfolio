@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a920f7c534f43029cee6b86e157868df",
+    "revision": "4be16e4bffaef93c34a20a3b2176033c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "67e47a9a2cca5c1e466c",
+    "revision": "b302246f9824aa836826",
     "url": "/portfolio/static/css/main.77f0ed2f.chunk.css"
   },
   {
-    "revision": "39e8e16c325684f560a7",
-    "url": "/portfolio/static/js/2.7c63e9d1.chunk.js"
+    "revision": "2d59d67e574645022489",
+    "url": "/portfolio/static/js/2.d0bf7e06.chunk.js"
   },
   {
-    "revision": "67e47a9a2cca5c1e466c",
-    "url": "/portfolio/static/js/main.b5dbcc2c.chunk.js"
+    "revision": "b302246f9824aa836826",
+    "url": "/portfolio/static/js/main.da575608.chunk.js"
   },
   {
     "revision": "24ea29be881503f5ab64",
@@ -98,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d2c8522f2c60236b77b87f9254a7ac84",
     "url": "/portfolio/static/media/ghl.d2c8522f.jpg"
+  },
+  {
+    "revision": "ea80984ce24e2125de1335b770539538",
+    "url": "/portfolio/static/media/iotec.ea80984c.jpg"
   },
   {
     "revision": "279667c35107b5c78ca47442d0da7280",
