@@ -9,7 +9,7 @@ const Content = () => {
 
     const [key, setKey] = useState('all');
 
-    const sequence = [0, 3, 4, 7, 8, 11, 12, 15];
+    const sequence = [0, 3, 4, 7, 8, 11, 12, 15, 16, 19, 20];
 
     return (
         <div>
@@ -94,6 +94,14 @@ const Content = () => {
 
                     <div className="row">
                         <Projects projects={projects} category='wp-plugin' sequence={sequence} />
+                    </div>
+                </Tab>
+
+                {/* WordPress Themes */}
+                <Tab eventKey="wp-themes" title="WordPress Themes">
+
+                    <div className="row">
+                        <Projects projects={projects} category='wp-theme' sequence={sequence} />
                     </div>
                 </Tab>
             </Tabs>

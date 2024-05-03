@@ -43,6 +43,14 @@ export const services = [
 // Projects done
 export const projects = [
     {
+        name: 'Ugrowth Marketing',
+        description: 'Custom WordPress Theme',
+        link: 'https://marketing.ugrowth.io/',
+        image: require('../assets/images/ugrowth-marketing.jpg'),
+        alt: 'ugrowth-marketing',
+        category: 'wp-theme'
+    },
+    {
         name: 'ioTec Pay',
         description: 'WooCommerce Payment Gateway Extension for Airtel and MTN Mobile Money',
         link: 'https://wordpress.com/plugins/iotecpay',
