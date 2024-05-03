@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae6dd26367f97faf1f3f4138c0bb70bb",
+    "revision": "296b1b0f8d8d7e543c3ba66b83753482",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "8886f0d66cc8bde72535",
+    "revision": "16a24a76a57fe3723aec",
     "url": "/portfolio/static/css/main.77f0ed2f.chunk.css"
   },
   {
-    "revision": "2d59d67e574645022489",
-    "url": "/portfolio/static/js/2.d0bf7e06.chunk.js"
+    "revision": "6a77aab7522dcf7c652e",
+    "url": "/portfolio/static/js/2.41c44176.chunk.js"
   },
   {
-    "revision": "8886f0d66cc8bde72535",
-    "url": "/portfolio/static/js/main.d4f51595.chunk.js"
+    "revision": "16a24a76a57fe3723aec",
+    "url": "/portfolio/static/js/main.4cfc46c3.chunk.js"
   },
   {
     "revision": "24ea29be881503f5ab64",
@@ -138,6 +138,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "00319d708091e591b66c28f3b99627de",
     "url": "/portfolio/static/media/ug-mix-maestro-2.00319d70.png"
+  },
+  {
+    "revision": "d5c5467f963df013582e7a99a0eb6083",
+    "url": "/portfolio/static/media/ugrowth-marketing.d5c5467f.jpg"
   },
   {
     "revision": "2cf416bd0bafca7ebf033d9d7d53c805",
