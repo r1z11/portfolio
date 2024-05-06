@@ -43,12 +43,20 @@ export const services = [
 // Projects done
 export const projects = [
     {
+        name: 'Buz Point of Sale',
+        description: 'React Native Mobile and Web App',
+        link: '#',
+        image: require('../assets/images/buz-pos.jpg'),
+        alt: 'buz-pos',
+        category: 'mobile-app, web-app'
+    },
+    {
         name: 'Ugrowth Marketing',
         description: 'Custom WordPress Theme',
         link: 'https://marketing.ugrowth.io/',
         image: require('../assets/images/ugrowth-marketing.jpg'),
         alt: 'ugrowth-marketing',
-        category: 'wp-theme'
+        category: 'wp-theme, website'
     },
     {
         name: 'ioTec Pay',
@@ -162,12 +170,4 @@ export const projects = [
         alt: 'ug-bankers-sacco',
         category: 'website'
     },
-    // {
-    //     name: '',
-    //     description: '',
-    //     link: '',
-    //     image: '',
-    //     alt: '',
-    //     category: ''
-    // },
 ]

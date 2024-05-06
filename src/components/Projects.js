@@ -7,7 +7,7 @@ const Projects = ({ projects, category, sequence }) => {
             {
                 projects.map((item, index) => (
                     <>
-                        {item.category === category ?
+                        {item.category.includes(category) ?
                             <div key={category + '-' + index} className="col-md-6 my-3 pl-3">
                                 <div className={(sequence.indexOf(index) !== -1) ? "bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden" : "bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden"}>
                                     <div className="my-3 py-3">
