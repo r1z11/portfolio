@@ -43,6 +43,14 @@ export const services = [
 // Projects done
 export const projects = [
     {
+        name: "Monkey O'Clock",
+        description: 'WordPress Tours & Travel Website',
+        link: 'https://monkey-oclock.com/',
+        image: require('../assets/images/monkey-oclock.jpg'),
+        alt: 'monkey-oclock',
+        category: 'website'
+    },
+    {
         name: 'Buz Point of Sale',
         description: 'React Native Mobile and Web App',
         link: '#',
