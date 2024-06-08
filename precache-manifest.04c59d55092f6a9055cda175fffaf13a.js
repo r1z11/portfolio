@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a29688a97246f5e828c0d218fbc9ea8",
+    "revision": "711eac26c7c5f31b4562de36bcc2abf5",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "6af7e11d95ab3bbcf264",
+    "revision": "9a8718d84c641e35ecd9",
     "url": "/portfolio/static/css/main.77f0ed2f.chunk.css"
   },
   {
-    "revision": "751dc18a3c6a559fdc4e",
-    "url": "/portfolio/static/js/2.51686236.chunk.js"
+    "revision": "ecc213af3d6d1607d0db",
+    "url": "/portfolio/static/js/2.8594a209.chunk.js"
   },
   {
-    "revision": "6af7e11d95ab3bbcf264",
-    "url": "/portfolio/static/js/main.607f6479.chunk.js"
+    "revision": "9a8718d84c641e35ecd9",
+    "url": "/portfolio/static/js/main.4275b23e.chunk.js"
   },
   {
     "revision": "24ea29be881503f5ab64",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "821a29ca6ea17b3aa8b22daf7b4f8d97",
     "url": "/portfolio/static/media/pvsl.821a29ca.jpg"
+  },
+  {
+    "revision": "115626902f3ac708b64cbd89a0824c2a",
+    "url": "/portfolio/static/media/rc-nakasero-central.11562690.jpg"
   },
   {
     "revision": "4dbd4e41f89dc93e418e87d4042b2da3",
