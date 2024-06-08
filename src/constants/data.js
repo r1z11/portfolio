@@ -43,6 +43,14 @@ export const services = [
 // Projects done
 export const projects = [
     {
+        name: "Rotary Club of Nakasero Central",
+        description: 'WordPress Rotary Website',
+        link: 'https://rcnakaserocentral.com/',
+        image: require('../assets/images/rc-nakasero-central.jpg'),
+        alt: 'rc-nakasero-central',
+        category: 'website'
+    },
+    {
         name: "Monkey O'Clock",
         description: 'WordPress Tours & Travel Website',
         link: 'https://monkey-oclock.com/',
