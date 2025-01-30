@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "509202b4a1a05fe94d50dea9976ede5e",
+    "revision": "cfc26c00fd4df4dfb915ab1ecff34907",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "9a8718d84c641e35ecd9",
+    "revision": "24306b3c0edbdef9ab76",
     "url": "/portfolio/static/css/main.77f0ed2f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.c6a4c4e8.chunk.js"
   },
   {
-    "revision": "9a8718d84c641e35ecd9",
-    "url": "/portfolio/static/js/main.4275b23e.chunk.js"
+    "revision": "24306b3c0edbdef9ab76",
+    "url": "/portfolio/static/js/main.d8c05073.chunk.js"
   },
   {
     "revision": "24ea29be881503f5ab64",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/bell-lager-shake-n-win.067833f1.png"
   },
   {
-    "revision": "3e4e672467cc05f820dc27db9b048ede",
-    "url": "/portfolio/static/media/buz-pos.3e4e6724.jpg"
+    "revision": "94caae1559873b0f890df5ac7f5601f8",
+    "url": "/portfolio/static/media/buz-pos.94caae15.png"
   },
   {
     "revision": "dcf6c7f7942dddf04c41b723faa556fe",
