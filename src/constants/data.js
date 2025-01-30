@@ -61,8 +61,8 @@ export const projects = [
     {
         name: 'Buz Point of Sale',
         description: 'React Native Mobile and Web App',
-        link: '#',
-        image: require('../assets/images/buz-pos.jpg'),
+        link: 'https://play.google.com/store/apps/details?id=com.buzpos&hl=en-US',
+        image: require('../assets/images/buz-pos.png'),
         alt: 'buz-pos',
         category: 'mobile-app, web-app'
     },

@@ -14,14 +14,14 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-12 col-md">
                         <h4>Eric Sentongo</h4>
-                        <small className="d-block mb-3 text-muted">2011 - {year}</small>
+                        <small className="d-block mb-3 text-muted">2014 - {year}</small>
                     </div>
                     <div className="col-6 col-md">
                     </div>
                     <div className="col-6 col-md">
                         <h5>My Resume</h5>
                         <ul className="list-unstyled text-small">
-                            <li><a className="text-muted" target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1HxiA-ki1LmsY6ee67mOWrpus28D7mlEZuTBn9Kdjz0A/edit?usp=sharing">View Resume</a></li>
+                            <li><a className="text-muted" target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1y8kQvNeqkDiJpr0agtWb6vC0TtR8hqhrgucqC4eDSUw/edit?usp=sharing">View Resume</a></li>
                         </ul>
                     </div>
                     <div className="col-6 col-md">
