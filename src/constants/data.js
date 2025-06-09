@@ -1,5 +1,3 @@
-// Data
-
 // Services provided
 export const services = [
     {
