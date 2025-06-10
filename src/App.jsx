@@ -18,7 +18,8 @@ import {
   Rocket
 } from 'lucide-react';
 
-import { projects } from '@/constants/data'
+import { projects } from '@/constants/data';
+import eric from "@/assets/images/eric.jpg";
 
 const App = () => {
   const [isVisible, setIsVisible] = useState({});
@@ -269,7 +270,7 @@ const App = () => {
                     <img 
                       className="w-full h-full object-cover rounded-xl"
                       alt="Eric Sentongo - Professional developer workspace"
-                      src="@/assets/images/eric.jpg" />
+                      src={eric} />
                   </div>
                 </div>
               </div>

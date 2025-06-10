@@ -1,10 +1,25 @@
+import nakasero from '@/assets/images/rc-nakasero-central.jpg';
+import monkey from '@/assets/images/monkey-oclock.jpg';
+import buz from '@/assets/images/buz-pos.png';
+import ugrowth from '@/assets/images/ugrowth.jpg';
+import iotec from '@/assets/images/iotec.jpg';
+import gardenia from '@/assets/images/gardenia-spa.png';
+import ropani from '@/assets/images/ropanitours.png';
+import maestro from '@/assets/images/ug-mix-maestro.png';
+import cornerstone from '@/assets/images/cornerstone-2.png';
+import apricot from '@/assets/images/apricot.jpg';
+import rotafield from '@/assets/images/rotafield-2.png';
+import bell from '@/assets/images/bell-lager-shake-n-win.png';
+import katogo from '@/assets/images/just-katogo-2.png';
+import sacco from '@/assets/images/ubsacco-2.png';
+
 // Projects done
 export const projects = [
     {
         name: "Rotary Club of Nakasero Central",
         description: 'WordPress Rotary Website',
         link: 'https://rcnakaserocentral.com/',
-        image: '@/assets/images/rc-nakasero-central.jpg',
+        image: nakasero,
         alt: 'rc-nakasero-central',
         category: 'website',
         tech: ['WordPress'],
@@ -13,7 +28,7 @@ export const projects = [
         name: "Monkey O'Clock",
         description: 'WordPress Tours & Travel Website',
         link: 'https://monkey-oclock.com/',
-        image: '@/assets/images/monkey-oclock.jpg',
+        image: monkey,
         alt: 'monkey-oclock',
         category: 'website',
         tech: ['WordPress'],
@@ -22,7 +37,7 @@ export const projects = [
         name: 'Buz Point of Sale',
         description: 'React Native Point of Sale App',
         link: 'https://play.google.com/apps/internaltest/4701657296178605696',
-        image: '@/assets/images/buz-pos.png',
+        image: buz,
         alt: 'buz-pos',
         category: 'mobile-app, web-app',
         tech: ['React Native', 'React JS', 'Node.JS', 'MongoDB', 'PHP'],
@@ -31,7 +46,7 @@ export const projects = [
         name: 'Ugrowth',
         description: 'WordPress News Website',
         link: 'https://ugrowth.co/',
-        image: '@/assets/images/ugrowth.jpg',
+        image: ugrowth,
         alt: 'ugrowth',
         category: 'website',
         tech: ['WordPress'],
@@ -40,7 +55,7 @@ export const projects = [
         name: 'ioTec Pay',
         description: 'WooCommerce Payment Gateway Extension for Airtel and MTN Mobile Money',
         link: 'https://wordpress.com/plugins/iotecpay',
-        image: '@/assets/images/iotec.jpg',
+        image: iotec,
         alt: 'iotec-pay',
         category: 'wp-plugin',
         tech: ['WordPress', 'PHP'],
@@ -49,7 +64,7 @@ export const projects = [
         name: 'Gardenia Spa',
         description: 'Wordpress Spa Website',
         link: 'https://gardeniaspaltd.com/',
-        image: '@/assets/images/gardenia-spa.png',
+        image: gardenia,
         alt: 'gardenia-spa',
         category: 'website',
         tech: ['WordPress'],
@@ -58,7 +73,7 @@ export const projects = [
         name: 'Ropani Tours',
         description: 'Wordpress Tours and Travel Website.',
         link: 'https://ropanitours.com/',
-        image: '@/assets/images/ropanitours.png',
+        image: ropani,
         alt: 'ropani-tours',
         category: 'website',
         tech: ['WordPress'],
@@ -67,7 +82,7 @@ export const projects = [
         name: 'UG Mix Maestro app',
         description: 'Android Mobile Game',
         link: '',
-        image: '@/assets/images/ug-mix-maestro-2.png',
+        image: maestro,
         alt: 'ug-mix-maestro',
         category: 'mobile-app',
         tech: ['Android', 'Java'],
@@ -76,7 +91,7 @@ export const projects = [
         name: 'Cornerstone Community Educational Schools Buwate',
         description: 'WordPress School Website',
         link: 'https://cornerstoneug.com/',
-        image: '@/assets/images/cornerstone-2.png',
+        image: cornerstone,
         alt: 'cornerstone-community-edu',
         category: 'website',
         tech: ['WordPress', 'PHP'],
@@ -85,7 +100,7 @@ export const projects = [
         name: 'Apricot Guest House',
         description: 'WordPress Hotel Website',
         link: 'https://apricotguesthouse.org/',
-        image: '@/assets/images/apricot.jpg',
+        image: apricot,
         alt: 'apricot-guest-house',
         category: 'website',
         tech: ['WordPress'],
@@ -94,7 +109,7 @@ export const projects = [
         name: 'Rotafield Schools',
         description: 'WordPress Kindergarten Website',
         link: 'https://rotafieldschools.com/',
-        image: '@/assets/images/rotafield-2.png',
+        image: rotafield,
         alt: 'rotafield-schools',
         category: 'website',
         tech: ['WordPress'],
@@ -103,7 +118,7 @@ export const projects = [
         name: 'Bell Lager Shake n Win',
         description: 'Android Mobile Game',
         link: 'https://www.youtube.com/embed/nQtcRtyUGU4',
-        image: '@/assets/images/bell-lager-shake-n-win.png',
+        image: bell,
         alt: 'bell-shake-n-win',
         category: 'mobile-app',
         tech: ['Android', 'Java'],
@@ -112,7 +127,7 @@ export const projects = [
         name: 'Just Katogo',
         description: 'WordPress Restaurant Website',
         link: 'https://justkatogo.com/',
-        image: '@/assets/images/just-katogo-2.png',
+        image: katogo,
         alt: 'just-katogo',
         category: 'website',
         tech: ['WordPress'],
@@ -121,7 +136,7 @@ export const projects = [
         name: "Uganda Bankers' SACCO",
         description: 'WordPress Savings and Credit Cooperative Organisation Website',
         link: 'https://ugandabankersacco.com/',
-        image: '@/assets/images/ubsacco-2.png',
+        image: sacco,
         alt: 'ug-bankers-sacco',
         category: 'website',
         tech: ['WordPress'],
