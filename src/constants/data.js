@@ -1,189 +1,129 @@
-// Data
-
-// Services provided
-export const services = [
-    {
-        title: 'Cross Platform App development',
-        description: 'I build mobile apps for both IOS and Android. Desktop applications for Windows, Linux and Mac',
-        image: require('../assets/images/apps.png'),
-        alt: 'cross-platform-apps-icon'
-    },
-    {
-        title: 'Web Applications',
-        description: 'I build web applications for small, medium and large businesses.',
-        image: require('../assets/images/web-apps.png'),
-        alt: 'web-apps-icon'
-    },
-    {
-        title: 'Search Engine Optimisation',
-        description: 'I optimise websites to rank higher in search engine results.',
-        image: require('../assets/images/seo.png'),
-        alt: 'seo-icon'
-    },
-    {
-        title: 'Web Design',
-        description: 'I design and develop responsive websites.',
-        image: require('../assets/images/websites.png'),
-        alt: 'web-design-icon'
-    },
-    {
-        title: 'RESTful APIs',
-        description: 'I build RESTful APIs.',
-        image: require('../assets/images/restful-apis.png'),
-        alt: 'apis-icon'
-    },
-    {
-        title: 'Web Hosting',
-        description: 'I provide hosting for websites, web applications and APIs',
-        image: require('../assets/images/web-hosting.png'),
-        alt: 'web-hosting-icon'
-    }
-]
-
 // Projects done
 export const projects = [
     {
         name: "Rotary Club of Nakasero Central",
         description: 'WordPress Rotary Website',
         link: 'https://rcnakaserocentral.com/',
-        image: require('../assets/images/rc-nakasero-central.jpg'),
+        image: './src/assets/images/rc-nakasero-central.jpg',
         alt: 'rc-nakasero-central',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress'],
     },
     {
         name: "Monkey O'Clock",
         description: 'WordPress Tours & Travel Website',
         link: 'https://monkey-oclock.com/',
-        image: require('../assets/images/monkey-oclock.jpg'),
+        image: './src/assets/images/monkey-oclock.jpg',
         alt: 'monkey-oclock',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress'],
     },
     {
         name: 'Buz Point of Sale',
-        description: 'React Native Mobile and Web App',
-        link: 'https://play.google.com/store/apps/details?id=com.buzpos&hl=en-US',
-        image: require('../assets/images/buz-pos.png'),
+        description: 'React Native Point of Sale App',
+        link: 'https://play.google.com/apps/internaltest/4701657296178605696',
+        image: './src/assets/images/buz-pos.png',
         alt: 'buz-pos',
-        category: 'mobile-app, web-app'
+        category: 'mobile-app, web-app',
+        tech: ['React Native', 'React JS', 'Node.JS', 'MongoDB', 'PHP'],
     },
     {
-        name: 'Ugrowth Marketing',
-        description: 'Custom WordPress Theme',
-        link: 'https://marketing.ugrowth.io/',
-        image: require('../assets/images/ugrowth-marketing.jpg'),
-        alt: 'ugrowth-marketing',
-        category: 'wp-theme, website'
+        name: 'Ugrowth',
+        description: 'WordPress News Website',
+        link: 'https://ugrowth.co/',
+        image: './src/assets/images/ugrowth.jpg',
+        alt: 'ugrowth',
+        category: 'website',
+        tech: ['WordPress'],
     },
     {
         name: 'ioTec Pay',
         description: 'WooCommerce Payment Gateway Extension for Airtel and MTN Mobile Money',
         link: 'https://wordpress.com/plugins/iotecpay',
-        image: require('../assets/images/iotec.jpg'),
+        image: './src/assets/images/iotec.jpg',
         alt: 'iotec-pay',
-        category: 'wp-plugin'
+        category: 'wp-plugin',
+        tech: ['WordPress', 'PHP'],
     },
     {
         name: 'Gardenia Spa',
         description: 'Wordpress Spa Website',
         link: 'https://gardeniaspaltd.com/',
-        image: require('../assets/images/gardenia-spa.png'),
+        image: './src/assets/images/gardenia-spa.png',
         alt: 'gardenia-spa',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress'],
     },
     {
         name: 'Ropani Tours',
         description: 'Wordpress Tours and Travel Website.',
         link: 'https://ropanitours.com/',
-        image: require('../assets/images/ropanitours.png'),
+        image: './src/assets/images/ropanitours.png',
         alt: 'ropani-tours',
-        category: 'website'
-    },
-    {
-        name: 'Gorilla Heights Lodge',
-        description: 'WordPress Website',
-        link: 'https://gorillaheightslodge.com/',
-        image: require('../assets/images/ghl.jpg'),
-        alt: 'gorilla-heights-lodge',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress'],
     },
     {
         name: 'UG Mix Maestro app',
         description: 'Android Mobile Game',
         link: '',
-        image: require('../assets/images/ug-mix-maestro-2.png'),
+        image: './src/assets/images/ug-mix-maestro-2.png',
         alt: 'ug-mix-maestro',
-        category: 'mobile-app'
-    },
-    {
-        name: 'Parkview Safari Lodge',
-        description: 'WordPress Website',
-        link: 'https://parkviewsafarilodge.com/',
-        image: require('../assets/images/pvsl.jpg'),
-        alt: 'parkview-safari-lodge',
-        category: 'website'
-    },
-    {
-        name: 'Parkview Safaris',
-        description: 'Wordpress Safaris Website',
-        link: 'https://parkview-safaris.com/',
-        image: require('../assets/images/pvs.jpg'),
-        alt: 'parkview-safaris',
-        category: 'website'
+        category: 'mobile-app',
+        tech: ['Android', 'Java'],
     },
     {
         name: 'Cornerstone Community Educational Schools Buwate',
-        description: 'PHP School Website',
+        description: 'WordPress School Website',
         link: 'https://cornerstoneug.com/',
-        image: require('../assets/images/cornerstone.jpg'),
+        image: './src/assets/images/cornerstone-2.png',
         alt: 'cornerstone-community-edu',
-        category: 'website'
-    },
-    {
-        name: 'Ugrowth',
-        description: 'WordPress News Website',
-        link: 'https://ugrowth.io/',
-        image: require('../assets/images/ugrowth.jpg'),
-        alt: 'ugrowth',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress', 'PHP'],
     },
     {
         name: 'Apricot Guest House',
         description: 'WordPress Hotel Website',
         link: 'https://apricotguesthouse.org/',
-        image: require('../assets/images/apricot.jpg'),
+        image: './src/assets/images/apricot.jpg',
         alt: 'apricot-guest-house',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress'],
     },
     {
         name: 'Rotafield Schools',
         description: 'WordPress Kindergarten Website',
         link: 'https://rotafieldschools.com/',
-        image: require('../assets/images/rotafield-schools.png'),
+        image: './src/assets/images/rotafield-2.png',
         alt: 'rotafield-schools',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress'],
     },
     {
         name: 'Bell Lager Shake n Win',
         description: 'Android Mobile Game',
         link: 'https://www.youtube.com/embed/nQtcRtyUGU4',
-        image: require('../assets/images/bell-lager-shake-n-win.png'),
+        image: './src/assets/images/bell-lager-shake-n-win.png',
         alt: 'bell-shake-n-win',
-        category: 'mobile-app'
+        category: 'mobile-app',
+        tech: ['Android', 'Java'],
     },
     {
         name: 'Just Katogo',
         description: 'WordPress Restaurant Website',
         link: 'https://justkatogo.com/',
-        image: require('../assets/images/justkatogo.jpg'),
+        image: './src/assets/images/just-katogo-2.png',
         alt: 'just-katogo',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress'],
     },
     {
         name: "Uganda Bankers' SACCO",
         description: 'WordPress Savings and Credit Cooperative Organisation Website',
         link: 'https://ugandabankersacco.com/',
-        image: require('../assets/images/ubsacco.png'),
+        image: './src/assets/images/ubsacco-2.png',
         alt: 'ug-bankers-sacco',
-        category: 'website'
+        category: 'website',
+        tech: ['WordPress'],
     },
 ]
