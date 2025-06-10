@@ -1,17 +1,17 @@
-import nakasero from '@/assets/images/rc-nakasero-central.jpg';
-import monkey from '@/assets/images/monkey-oclock.jpg';
+import nakasero from '@/assets/images/rc-nakasero-central.jpeg';
+import monkey from '@/assets/images/monkey-oclock.jpeg';
 import buz from '@/assets/images/buz-pos.png';
 import ugrowth from '@/assets/images/ugrowth.jpg';
 import iotec from '@/assets/images/iotec.jpg';
 import gardenia from '@/assets/images/gardenia-spa.png';
-import ropani from '@/assets/images/ropanitours.png';
-import maestro from '@/assets/images/ug-mix-maestro.png';
-import cornerstone from '@/assets/images/cornerstone-2.png';
+import ropani from '@/assets/images/ropanitours.jpeg';
+import maestro from '@/assets/images/ug-mix-maestro.jpeg';
+import cornerstone from '@/assets/images/cornerstone-2.jpeg';
 import apricot from '@/assets/images/apricot.jpg';
-import rotafield from '@/assets/images/rotafield-2.png';
+import rotafield from '@/assets/images/rotafield-2.jpeg';
 import bell from '@/assets/images/bell-lager-shake-n-win.png';
-import katogo from '@/assets/images/just-katogo-2.png';
-import sacco from '@/assets/images/ubsacco-2.png';
+import katogo from '@/assets/images/just-katogo-2.jpeg';
+import sacco from '@/assets/images/ubsacco-2.jpeg';
 
 // Projects done
 export const projects = [
