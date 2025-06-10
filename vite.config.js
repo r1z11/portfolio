@@ -196,6 +196,7 @@ export default defineConfig({
 		react(),
 		addTransformIndexHtml
 	],
+	base: 'portfolio',
 	server: {
 		cors: true,
 		headers: {
