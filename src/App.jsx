@@ -269,7 +269,7 @@ const App = () => {
                     <img 
                       className="w-full h-full object-cover rounded-xl"
                       alt="Eric Sentongo - Professional developer workspace"
-                      src="./src/assets/images/eric.jpg" />
+                      src="@/assets/images/eric.jpg" />
                   </div>
                 </div>
               </div>
