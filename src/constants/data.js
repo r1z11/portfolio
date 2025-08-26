@@ -16,6 +16,15 @@ import sacco from '@/assets/images/ubsacco-2.jpeg';
 // Projects done
 export const projects = [
     {
+        name: "Trinitas Community Organization",
+        description: 'WordPress Non-profit Organization Website',
+        link: 'https://tcommunity.com/',
+        image: nakasero,
+        alt: 'trinitas',
+        category: 'website',
+        tech: ['WordPress'],
+    },
+    {
         name: "Rotary Club of Nakasero Central",
         description: 'WordPress Rotary Website',
         link: 'https://rcnakaserocentral.com/',
