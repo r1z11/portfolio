@@ -193,10 +193,13 @@ const App = () => {
                 <div className="h-48 bg-gradient-to-br from-purple-500/20 to-blue-500/20 flex items-center justify-center">
                   <img   
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
-                    alt={project.title}
+                    alt={project.name}
                     src={project.image} />
                 </div>
                 <div className="p-6">
+                  <h3 className="text-xxl font-bold text-white mb-3 group-hover:text-purple-300 transition-colors">
+                    {project.name}
+                  </h3>
                   <h3 className="text-xl font-bold text-white mb-3 group-hover:text-purple-300 transition-colors">
                     {project.title}
                   </h3>

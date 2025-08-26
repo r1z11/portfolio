@@ -12,6 +12,7 @@ import rotafield from '@/assets/images/rotafield-2.jpeg';
 import bell from '@/assets/images/bell-lager-shake-n-win.png';
 import katogo from '@/assets/images/just-katogo-2.jpeg';
 import sacco from '@/assets/images/ubsacco-2.jpeg';
+import trinitas from '@/assets/images/trinitas-3.jpeg';
 
 // Projects done
 export const projects = [
@@ -19,7 +20,7 @@ export const projects = [
         name: "Trinitas Community Organization",
         description: 'WordPress Non-profit Organization Website',
         link: 'https://tcommunity.com/',
-        image: nakasero,
+        image: trinitas,
         alt: 'trinitas',
         category: 'website',
         tech: ['WordPress'],
