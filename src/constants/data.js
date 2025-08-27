@@ -13,9 +13,19 @@ import bell from '@/assets/images/bell-lager-shake-n-win.png';
 import katogo from '@/assets/images/just-katogo-2.jpeg';
 import sacco from '@/assets/images/ubsacco-2.jpeg';
 import trinitas from '@/assets/images/trinitas-3.jpeg';
+import famedo from '@/assets/images/famedo.jpeg';
 
 // Projects done
 export const projects = [
+    {
+        name: "Famedo Farm Management System",
+        description: 'NextJS Farm Management System',
+        link: 'https://app.famedo.com/',
+        image: famedo,
+        alt: 'famedo',
+        category: 'web-app',
+        tech: ['NextJS', 'ReactJS', 'NodeJS', 'MongoDB', 'Firebase'],
+    },
     {
         name: "Trinitas Community Organization",
         description: 'WordPress Non-profit Organization Website',
