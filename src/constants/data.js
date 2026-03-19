@@ -14,9 +14,29 @@ import katogo from '@/assets/images/just-katogo-2.jpeg';
 import sacco from '@/assets/images/ubsacco-2.jpeg';
 import trinitas from '@/assets/images/trinitas-3.jpeg';
 import famedo from '@/assets/images/famedo.jpeg';
+import donaldEvelyn from '@/assets/images/donald-evelyn-wedding.jpeg';
+import abidingFathers from '@/assets/images/abiding-fathers.jpeg';
 
 // Projects done
 export const projects = [
+    {
+        name: "Abiding Fathers",
+        description: 'Non-Profit WordPress Website',
+        link: 'https://abidingfathers.org',
+        image: abidingFathers,
+        alt: 'abiding-fathers',
+        category: 'website',
+        tech: ['WordPress'],
+    },
+    {
+        name: "Donald & Evelyn Wedding",
+        description: 'ReactJS Wedding Website',
+        link: 'https://wedding.musiimes.space',
+        image: donaldEvelyn,
+        alt: 'donald-evelyn',
+        category: 'web-app',
+        tech: ['Vite', 'ReactJS', 'Lovable'],
+    },
     {
         name: "Famedo Farm Management System",
         description: 'NextJS Farm Management System',

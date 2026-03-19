@@ -14,8 +14,10 @@ import {
   Download,
   ExternalLink,
   ChevronDown,
-  Zap,
-  Rocket
+  Rocket,
+  Smartphone,
+  MonitorSmartphone,
+  Server
 } from 'lucide-react';
 
 import { projects } from '@/constants/data';
@@ -47,12 +49,16 @@ const App = () => {
 
   const techStack = [
     { name: 'WordPress', icon: Globe, color: 'from-blue-500 to-cyan-500' },
-    { name: 'React', icon: Code, color: 'from-cyan-500 to-blue-500' },
-    { name: 'Node.js', icon: Zap, color: 'from-green-500 to-emerald-500' },
+    { name: 'ReactJS', icon: MonitorSmartphone, color: 'from-cyan-500 to-blue-500' },
+    { name: 'React Native', icon: Smartphone, color: 'from-teal-500 to-blue-500' },
+    { name: 'Expo', icon: Code, color: 'from-orange-500 to-blue-500' },
+    { name: 'NodeJS', icon: Server, color: 'from-green-500 to-emerald-500' },
     { name: 'PHP', icon: Code, color: 'from-purple-500 to-indigo-500' },
     { name: 'MySQL', icon: Database, color: 'from-orange-500 to-red-500' },
     { name: 'MongoDB', icon: Database, color: 'from-green-600 to-green-400' },
-    { name: 'Google Cloud', icon: Cloud, color: 'from-blue-600 to-blue-400' }
+    { name: 'Google Cloud', icon: Cloud, color: 'from-blue-600 to-blue-400' },
+    { name: 'NextJS', icon: Code, color: 'from-red-600 to-red-400' },
+    { name: 'Vite', icon: Code, color: 'from-purple-600 to-red-400' }
   ];
 
   const handleContactClick = () => {
