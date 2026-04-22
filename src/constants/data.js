@@ -16,9 +16,29 @@ import trinitas from '@/assets/images/trinitas-3.jpeg';
 import famedo from '@/assets/images/famedo.jpeg';
 import donaldEvelyn from '@/assets/images/donald-evelyn-wedding.jpeg';
 import abidingFathers from '@/assets/images/abiding-fathers.jpeg';
+import katongoleUgandaTours from '@/assets/images/katongole-uganda-tours.jpg';
+import novelSitesTours from '@/assets/images/novel-sites-tours.jpg';
 
 // Projects done
 export const projects = [
+    {
+        name: "Novel Sites Tours",
+        description: 'Tour and Travel WordPress Website',
+        link: 'https://novelsitestours.co.ug',
+        image: novelSitesTours,
+        alt: 'novel-sites-tours',
+        category: 'website',
+        tech: ['WordPress'],
+    },
+    {
+        name: "Katongole Uganda Tours",
+        description: 'Tour and Travel WordPress Website',
+        link: 'https://katongoleugandatours.com',
+        image: katongoleUgandaTours,
+        alt: 'katongole-uganda-tours',
+        category: 'website',
+        tech: ['WordPress'],
+    },
     {
         name: "Abiding Fathers",
         description: 'Non-Profit WordPress Website',
